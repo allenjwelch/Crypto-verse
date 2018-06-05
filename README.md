@@ -42,7 +42,7 @@ Node dependencies:
 - Express.js - Web application framework used for server side routing
 - Body-parser - Middleware parser used for incoming request bodies
 - Handlebars - Templating engine
-- JavaScript library for visualizing data with HTML, SVG, and CSS.
+- D3.js - JavaScript library for visualizing data with HTML, SVG, and CSS.
 - Sequelize -Promise-baed ORM for Node.js using MySQL database management system
 - JSON Web Tokens - JSON-based open standard (RFC 7519) for creating access tokens for securely transmitting information between client and server
 
